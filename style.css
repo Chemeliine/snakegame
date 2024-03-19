@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    height: 100%;
+    background-color: bisque;
+    background-image: url("./13839952_5371964.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    padding: 50px;
+    text-align: center;
+}
+
+canvas{
+    border: 1px solid gray;
+    background-color: rgba(255, 255, 255, 0.611);
+}
+
+button{
+    background-color: rgb(27, 52, 3);
+    color: blanchedalmond;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 26px;
+}
